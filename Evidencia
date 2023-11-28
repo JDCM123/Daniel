@@ -1,0 +1,8 @@
+#Evidencia_Programacion
+#
+#Autor: Daniel C y Carlos Omar
+#Fecha: 28/11/23
+
+import pandas as pd
+import matplotlib.pyplot as plt
+datos = pd.read_excel("C:\Users\jdani\OneDrive\Escritorio\Programación\Evidencia_Programacion.xlsx")
